@@ -33,6 +33,9 @@ public class LocalClass {
         }
 
         Water water = new Water(1000);
+        System.out.println(String.format("Class simple name of object=%s",water.getClass().getSimpleName()));
+        System.out.println(String.format("Class name of object=%s",water.getClass().getName()));
+
         System.out.println(String.format("Capacity of %s car in liter=%s",car,water.getLiter()));
         water.pour();
         System.out.println(String.format("Capacity of %s car in liter=%s after pour water",car,water.getLiter()));
