@@ -1,4 +1,4 @@
-package uz.dilsh0d.interview.opp.abstraction;
+package uz.dilsh0d.interview.oop.abstraction;
 
 /**
  * As abstraction is one of the core principles of Object-oriented programming practices and
