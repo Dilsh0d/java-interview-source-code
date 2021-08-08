@@ -1,4 +1,4 @@
-package uz.dilsh0d.interview.opp.abstraction;
+package uz.dilsh0d.interview.oop.abstraction;
 
 public class Car extends Vehicle {
 
